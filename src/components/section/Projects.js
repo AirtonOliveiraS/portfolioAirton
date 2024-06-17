@@ -36,8 +36,8 @@ function Projects() {
         title=" Potfolio Pessoal"
         tech=" HTML, CSS , JS e REACT"
         description=" Desenvolvimento do portfolio pessoal com apresentação, skills, projetos e contatos. "
-        repo="https://github.com/AirtonOliveiraS/PaginadeBuscaCEPePrevisaodoTempo"
-        site="https://desafio-02-dnc.netlify.app/"
+        repo="https://github.com/AirtonOliveiraS/portfolioAirton"
+        site="https://portfolio-airton-pearl.vercel.app/"
       />
       
 <Card
