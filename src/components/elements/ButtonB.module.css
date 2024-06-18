@@ -6,7 +6,9 @@
     padding: 10px;
     font-weight: bolder;
     margin-top: 15px;
-    cursor:pointer
+    cursor:pointer;
+    margin-top: 15px;
+    
 }
 
 .btn button:hover{
