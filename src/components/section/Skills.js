@@ -12,11 +12,11 @@ function Skills() {
       <h1> Habilidades</h1>
         <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
        <div>
-        <img src={js}/>
-        <img src={html}/>
-        <img src={css}/>
-        <img src={ts}/>
-        <img src={react}/>
+        <img src={js} alt=''/>
+        <img src={html} alt=''/>
+        <img src={css} alt=''/>
+        <img src={ts} alt=''/>
+        <img src={react} alt=''/>
        </div>
     </div>
   )
